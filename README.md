@@ -1,2 +1,2 @@
 # lire-oasis
-"Lucene Image Retrieval" code to extract "Open Access Series of Imaging Studies" features.
+Code to extract features from OASIS-1 dataset (Open Access Series of Imaging Studies) by using descriptors implemented in Lucene Image Retrieval library.
